@@ -1,6 +1,4 @@
-# Cross-Currency Dynamics in Cryptocurrency Markets Under Stablecoin Regulation
-
-**A Laboratory Study of the March 2023 USDC Depeg Event and Its Implications for Post-GENIUS Act Market Structure**
+# IAQF 2026
 
 **Analysis Period:** March 1 - 21, 2023  
 **Research Date:** February 18, 2026  
